@@ -1,0 +1,9 @@
+header,div{
+    width: 800px;
+    height: 200px;
+}
+img{
+    width: 200px;
+    height: 100px;
+    position: relative;
+}
